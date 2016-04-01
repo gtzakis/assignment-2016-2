@@ -49,5 +49,21 @@ ATG
 AAT
 ...
 ```
+δηλαδή θα έχει ένα πολυμερές ανά γραμμή.
+
+### Περιγραφή Εξόδου
+
+*Προσοχή:* αν η έξοδος δεν είναι ακριβώς σύμφωνη με την περιγραφή της, η εργασία *δεν θα μπορεί να αξιολογηθεί*. Το πρόγραμμα θα πρέπει να εμφανίζει στην έξοδο την ακολουθία DNA που μπόρεσε να εντοπίσει. Έτσι στο παράδειγμά μας, η έξοδος θα είναι:
+```
+ATGGCGTGCA
+```
+
+Καλή Επιτυχία.
+
+# Περισσότερες Πληροφορίες
+
+* Phillip E. C. Compeau, Pavel A. Pevzner, and Glenn Tesler, How to apply de Bruijn graphs to genome assembly, Nature Biotechnology, Vol. 29, no. 11, November 2011 (http://www.nature.com/nbt/journal/v29/n11/full/nbt.2023.html).
+
+* Pavel A. Pevzner, Haixu Tang, and Michael S. Waterman, An Eulerian path approach to DNA fragment assembly, Proceedings of the National Academy of Sciences (PNAS), Vol. 18, no. 17, August 14, 2001 (http://www.pnas.org/content/98/17/9748.long).
 
 
