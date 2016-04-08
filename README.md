@@ -78,13 +78,22 @@ AATGGCGTGC
 
 ### Άλλα Παραδείγματα
 
-Αν δώσετε το αρχείο [fragment_file_2.txt](fragment_file_2.txt) θα πάρετε την ακολουθία:
+* Αν δώσετε το αρχείο [fragment_file_2.txt](fragment_file_2.txt) θα πάρετε την ακολουθία:
 ```
-AGTGTACCATATGGACTTCA
+AGTGGACCATGTATACTTCA
 ```
 ή κάποια άλλη ισοδύναμή της, όπως π.χ.:
 ```
 TGTACTTCATATGGACCAAG
+```
+
+* Αν δώσετε το αρχείο [fragment_file_3.txt](fragment_file_3.txt) θα πάρετε την ακολουθία:
+```
+ATCTCAGACTTACACCATATGG
+```
+ή κάποια άλλη ισοδύναμή της, όπως π.χ.:
+```
+TCTCAGACTTACACCATATGGA
 ```
 
 Καλή Επιτυχία.
