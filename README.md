@@ -78,6 +78,17 @@ AATGGCGTGC
 
 Καλή Επιτυχία.
 
+### Άλλα Παραδείγματα
+
+Αν δώσετε το αρχείο [fragment_file_2.txt](fragment_file_2.txt) θα πάρετε την ακολουθία:
+```
+AGTGTACCATATGGACTTCA
+```
+ή κάποια άλλη ισοδύναμή της, όπως π.χ.:
+```
+TGTACTTCATATGGACCAAG
+```
+
 # Περισσότερες Πληροφορίες
 
 * Phillip E. C. Compeau, Pavel A. Pevzner, and Glenn Tesler, How to apply de Bruijn graphs to genome assembly, Nature Biotechnology, Vol. 29, no. 11, November 2011 (http://www.nature.com/nbt/journal/v29/n11/full/nbt.2023.html).
