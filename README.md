@@ -76,8 +76,6 @@ AATGGCGTGC
 
 κ.λπ.
 
-Καλή Επιτυχία.
-
 ### Άλλα Παραδείγματα
 
 Αν δώσετε το αρχείο [fragment_file_2.txt](fragment_file_2.txt) θα πάρετε την ακολουθία:
@@ -88,6 +86,8 @@ AGTGTACCATATGGACTTCA
 ```
 TGTACTTCATATGGACCAAG
 ```
+
+Καλή Επιτυχία.
 
 # Περισσότερες Πληροφορίες
 
