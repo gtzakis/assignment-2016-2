@@ -96,6 +96,19 @@ ATCTCAGACTTACACCATATGG
 TCTCAGACTTACACCATATGGA
 ```
 
+* Αν δώσετε το αρχείο [fragment_file_4.txt](fragment_file_4.txt) θα πάρετε την ακολουθία:
+```
+GACTACCTGGTCTCGATCACGGA
+```
+ή κάποια άλλη ισοδύναμή της, όπως π.χ.:
+```
+CGGTCACTCTGGACCTACGAGAT
+```
+ή 
+```
+TACTCGGACGAGATCACCTGGTC
+```
+
 Καλή Επιτυχία.
 
 # Περισσότερες Πληροφορίες
